@@ -1,0 +1,1 @@
+connection = sqlite3.connect("database/campus.db")
